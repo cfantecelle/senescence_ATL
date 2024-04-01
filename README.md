@@ -1,9 +1,10 @@
 # Senescence in American Tegumentary Leishmaniasis
 
-This is a companion repository to the paper entitled _"Senescence-related genes are associated with the immunopathology signature of American Tegumentary Leishmaniasis lesions and may predict progression to mucosal clinical form_ in which we analyse senescence features in different clinical manifestations of American Tegumentary Leishmaniasis.
+This is a companion repository to the paper entitled ***"Senescence-related genes are associated with the immunopathology signature of American Tegumentary Leishmaniasis lesions and may predict progression to mucosal clinical form"*** in which we analyse senescence features in different clinical manifestations of American Tegumentary Leishmaniasis.
 
 The paper is under submission at the moment.
 
+<br>
 ## Repository structure
 
 ```
@@ -36,15 +37,17 @@ The paper is under submission at the moment.
 |
 └─
 ```
-
+<br>
 ## 3-dimensional Volcano Plot
 
 For viewing the interactive 3D Volcano Plot, please follow the link: [ATL 3D Volcano](https://cfantecelle.github.io/senescence_ATL/results/volcano3D.html)
 
+<br>
 ## Personal Package
 
 Some functions used in the `senescence_ATL.R` script come from a personal package I use to store useful functions (such as calculating coordinates for manually positioning statistics results in ggplots). These functions can be checked in the [CompBioTools package](https://github.com/cfantecelle/CompBioTools_package) repository.
 
+<br>
 ## Contact
 
 For questions about the data or the code used, you may contact us at:
