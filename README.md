@@ -57,8 +57,8 @@ Some functions used in the `senescence_ATL.R` script come from a personal packag
 
 For questions about the data or the code used, you may contact us at:
 
-1. First author
+First author
   * Carlos Henrique Fantecelle: carloshdfc@gmail.com
         
-2. Corresponding author
+Corresponding author
   * Daniel C. O. Gomes: dgomes@ndi.ufes.br 
