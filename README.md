@@ -35,6 +35,7 @@ The paper is under submission at the moment.
 ├── README.md                                 # This readme markdown file.
 ├── LICENSE                                   # License for the repository.
 ├── senescence_ATL.R                          # R Script file containing code used to analyse and plot data for the paper.
+├── prepare_signature.ipynb                   # Jupyter Notebook with code used to prepare Single Cell atlas data.
 |
 └─
 ```
